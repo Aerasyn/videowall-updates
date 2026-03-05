@@ -1,0 +1,7 @@
+{
+  "version": "9.9.9-test",
+  "publishedAt": "2026-03-05T00:00:00.000Z",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.0/VideoWall-1.1.0-portable.zip",
+  "sha256": "f142d172bc317de92fd24a3179d3917504cd137b8a81e9fdc832940ca88154b6",
+  "notes": "Portable updater test channel manifest."
+}
