@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "publishedAt": "2026-03-05T03:57:04.490Z",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.0/VideoWall-1.1.0-portable.zip",
-  "sha256": "f142d172bc317de92fd24a3179d3917504cd137b8a81e9fdc832940ca88154b6",
-  "notes": "VideoWall 1.1.0 baseline portable updater rollout."
+  "version": "1.1.1",
+  "publishedAt": "2026-03-05T04:25:40.312Z",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.1/VideoWall-1.1.1-portable.zip",
+  "sha256": "e26ae5ed5fd5e9ad56ed122275e11682a6190f287175c8fcc8ac619e6f2c56b4",
+  "notes": "VideoWall 1.1.1 updater-ready release."
 }
