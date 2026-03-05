@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "publishedAt": "2026-03-05T00:00:00.000Z",
+  "zipUrl": "https://example.com/VideoWall-1.1.0-portable.zip",
+  "sha256": "REPLACE_WITH_REAL_SHA256",
+  "notes": "Initial updater manifest scaffold."
+}
