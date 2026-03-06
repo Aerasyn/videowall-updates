@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "publishedAt": "2026-03-05T17:31:29.724Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.5/VideoWall.1.1.5.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.5/VideoWall.1.1.5-portable.zip",
-  "sha256": "15c0909626dfc30db327500626296724f02799e46014d552efa674b5959d3128",
-  "notes": "VideoWall 1.1.5 volume boost controls and native media boost path."
+  "version": "1.1.6",
+  "publishedAt": "2026-03-06T03:12:22.805Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.6/VideoWall.1.1.6.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.6/VideoWall.1.1.6-portable.zip",
+  "sha256": "0db776c5d868c26db0b6228c3faa3d7248f95dbff19152e44f0a72240af0cfcf",
+  "notes": "VideoWall 1.1.6 slider drag stability and selectable set export."
 }
