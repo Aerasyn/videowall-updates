@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "publishedAt": "2026-03-07T03:23:22.405Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.9/VideoWall.1.1.9.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.9/VideoWall.1.1.9-portable.zip",
-  "sha256": "74e8d8d73ef8fd38a80b2034ec421ffe40fddbca564a128d77cab5f970bb9799",
-  "notes": "VideoWall 1.1.9 improves updater installability across portable and unpacked installs and normalizes saved-set names on save."
+  "version": "1.2.0",
+  "publishedAt": "2026-03-07T19:19:22.559Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.0/VideoWall.1.2.0.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.0/VideoWall.1.2.0-portable.zip",
+  "sha256": "001f36aea55c835967daa2b7512483bfa0de95f452a316fd0a9413dbad470711",
+  "notes": "VideoWall 1.2.0 keeps runtime wall preferences between set switches and refines the compact settings-bar workflow."
 }
