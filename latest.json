@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "publishedAt": "2026-03-07T02:23:23.649Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.8/VideoWall.1.1.8.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.8/VideoWall.1.1.8-portable.zip",
-  "sha256": "b9f4e53dead56df76936f58ee004f0f6ef23005542c5740fd9ae83cacba59c9b",
-  "notes": "VideoWall 1.1.8 fixes saved-set renaming to edit inline and replace the name in place."
+  "version": "1.1.9",
+  "publishedAt": "2026-03-07T03:23:22.405Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.9/VideoWall.1.1.9.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.9/VideoWall.1.1.9-portable.zip",
+  "sha256": "74e8d8d73ef8fd38a80b2034ec421ffe40fddbca564a128d77cab5f970bb9799",
+  "notes": "VideoWall 1.1.9 improves updater installability across portable and unpacked installs and normalizes saved-set names on save."
 }
