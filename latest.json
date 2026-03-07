@@ -1,10 +1,10 @@
 {
-  "version": "1.2.1",
-  "publishedAt": "2026-03-07T19:28:37.423Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.1/VideoWall.1.2.1.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.1/VideoWall.1.2.1-portable.zip",
-  "sha256": "2bbc7c736c40fdf7695adc4d5ebde6fe4cd66384b6ad73e9c00aec1a3539aaaa",
-  "downloadSha256": "2bbc7c736c40fdf7695adc4d5ebde6fe4cd66384b6ad73e9c00aec1a3539aaaa",
-  "zipSha256": "3bdf7b1720e4dcd175f9a5a4be97bc4a7c8f106fb4fc9a9e3a8491a09b7d6384",
-  "notes": "VideoWall 1.2.1 fixes updater hash verification for both EXE and ZIP update artifacts."
+  "version": "1.2.2",
+  "publishedAt": "2026-03-07T21:17:58.336Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.2/VideoWall.1.2.2.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.2/VideoWall.1.2.2-portable.zip",
+  "sha256": "bb430db854e0e541eeb3553216d92af044feb7f37fa67319a62fbf6161f508cd",
+  "downloadSha256": "bb430db854e0e541eeb3553216d92af044feb7f37fa67319a62fbf6161f508cd",
+  "zipSha256": "9458ad78812fa1af07eb451b02638d3c3e464f4d75bf38f8635284dc63cd175b",
+  "notes": "VideoWall 1.2.2 hardens feed recovery with bounded dead-feed retries, Famelack resolver caching, and watchdog fixes for wrapped and YouTube-backed feeds."
 }
