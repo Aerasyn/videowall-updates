@@ -1,8 +1,10 @@
 {
-  "version": "1.2.0",
-  "publishedAt": "2026-03-07T19:19:22.559Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.0/VideoWall.1.2.0.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.0/VideoWall.1.2.0-portable.zip",
-  "sha256": "001f36aea55c835967daa2b7512483bfa0de95f452a316fd0a9413dbad470711",
-  "notes": "VideoWall 1.2.0 keeps runtime wall preferences between set switches and refines the compact settings-bar workflow."
+  "version": "1.2.1",
+  "publishedAt": "2026-03-07T19:28:37.423Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.1/VideoWall.1.2.1.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.1/VideoWall.1.2.1-portable.zip",
+  "sha256": "2bbc7c736c40fdf7695adc4d5ebde6fe4cd66384b6ad73e9c00aec1a3539aaaa",
+  "downloadSha256": "2bbc7c736c40fdf7695adc4d5ebde6fe4cd66384b6ad73e9c00aec1a3539aaaa",
+  "zipSha256": "3bdf7b1720e4dcd175f9a5a4be97bc4a7c8f106fb4fc9a9e3a8491a09b7d6384",
+  "notes": "VideoWall 1.2.1 fixes updater hash verification for both EXE and ZIP update artifacts."
 }
