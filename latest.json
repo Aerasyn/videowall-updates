@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "publishedAt": "2026-03-06T03:12:22.805Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.6/VideoWall.1.1.6.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.6/VideoWall.1.1.6-portable.zip",
-  "sha256": "0db776c5d868c26db0b6228c3faa3d7248f95dbff19152e44f0a72240af0cfcf",
-  "notes": "VideoWall 1.1.6 slider drag stability and selectable set export."
+  "version": "1.1.7",
+  "publishedAt": "2026-03-07T02:07:50.971Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.7/VideoWall.1.1.7.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.1.7/VideoWall.1.1.7-portable.zip",
+  "sha256": "6269bf5ce2541884fc6f932ad68049f8f64126a3cb15fb20416e904a84f5f7e3",
+  "notes": "VideoWall 1.1.7 preserves pane state while switching sets and adds saved-set renaming."
 }
