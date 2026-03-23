@@ -1,10 +1,10 @@
 {
-  "version": "1.2.2",
-  "publishedAt": "2026-03-07T21:17:58.336Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.2/VideoWall.1.2.2.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.2/VideoWall.1.2.2-portable.zip",
-  "sha256": "bb430db854e0e541eeb3553216d92af044feb7f37fa67319a62fbf6161f508cd",
-  "downloadSha256": "bb430db854e0e541eeb3553216d92af044feb7f37fa67319a62fbf6161f508cd",
-  "zipSha256": "9458ad78812fa1af07eb451b02638d3c3e464f4d75bf38f8635284dc63cd175b",
-  "notes": "VideoWall 1.2.2 hardens feed recovery with bounded dead-feed retries, Famelack resolver caching, and watchdog fixes for wrapped and YouTube-backed feeds."
+  "version": "1.2.3",
+  "publishedAt": "2026-03-23T15:40:27.289Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.3/VideoWall.1.2.3.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.3/VideoWall.1.2.3-portable.zip",
+  "sha256": "be2daaa60bd217a6443a70b57d329a12b0c1b1c133cb860f12a8ff038510a7d6",
+  "downloadSha256": "be2daaa60bd217a6443a70b57d329a12b0c1b1c133cb860f12a8ff038510a7d6",
+  "zipSha256": "855216dc13f46e603e9139c049480cea9077daec5dcc7eba24d5a00e9d27a8d7",
+  "notes": "VideoWall 1.2.3 restores Famelack resolution after the upstream dataset moved to famelack-data and changed stream field names."
 }
