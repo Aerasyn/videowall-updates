@@ -1,10 +1,10 @@
 {
-  "version": "1.2.3",
-  "publishedAt": "2026-03-23T15:40:27.289Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.3/VideoWall.1.2.3.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.3/VideoWall.1.2.3-portable.zip",
-  "sha256": "be2daaa60bd217a6443a70b57d329a12b0c1b1c133cb860f12a8ff038510a7d6",
-  "downloadSha256": "be2daaa60bd217a6443a70b57d329a12b0c1b1c133cb860f12a8ff038510a7d6",
-  "zipSha256": "855216dc13f46e603e9139c049480cea9077daec5dcc7eba24d5a00e9d27a8d7",
-  "notes": "VideoWall 1.2.3 restores Famelack resolution after the upstream dataset moved to famelack-data and changed stream field names."
+  "version": "1.2.4",
+  "publishedAt": "2026-03-27T02:41:04.074Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.4/VideoWall.1.2.4.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.4/VideoWall.1.2.4-portable.zip",
+  "sha256": "36eea634e1bd6f0202d2f10fda01d432d858d221c28fa9d9872e74698a1b6e49",
+  "downloadSha256": "36eea634e1bd6f0202d2f10fda01d432d858d221c28fa9d9872e74698a1b6e49",
+  "zipSha256": "3c519876ff1eb83e98629db366a74ce10ba3aa3b4486494ded3422f16c7542c2",
+  "notes": "VideoWall 1.2.4 fixes newer Famelack /tv route parsing, stabilizes editing existing Famelack feeds, and prefers playable multi-source streams when earlier sources are black or stalled."
 }
