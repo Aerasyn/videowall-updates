@@ -1,10 +1,10 @@
 {
-  "version": "1.2.4",
-  "publishedAt": "2026-03-27T02:41:04.074Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.4/VideoWall.1.2.4.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.4/VideoWall.1.2.4-portable.zip",
-  "sha256": "36eea634e1bd6f0202d2f10fda01d432d858d221c28fa9d9872e74698a1b6e49",
-  "downloadSha256": "36eea634e1bd6f0202d2f10fda01d432d858d221c28fa9d9872e74698a1b6e49",
-  "zipSha256": "3c519876ff1eb83e98629db366a74ce10ba3aa3b4486494ded3422f16c7542c2",
-  "notes": "VideoWall 1.2.4 fixes newer Famelack /tv route parsing, stabilizes editing existing Famelack feeds, and prefers playable multi-source streams when earlier sources are black or stalled."
+  "version": "1.2.5",
+  "publishedAt": "2026-03-31T17:17:33.443Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.5/VideoWall.1.2.5.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.5/VideoWall.1.2.5-portable.zip",
+  "sha256": "1fb4c236bc7dffa28f4f8453bbcf53071cc3722c94541157576302597b73b268",
+  "downloadSha256": "1fb4c236bc7dffa28f4f8453bbcf53071cc3722c94541157576302597b73b268",
+  "zipSha256": "21a14f79415a56172179bdd7d4be36b919c0eaec8e34688f05b180dd9e708709",
+  "notes": "VideoWall 1.2.5 hardens the dependency tree by pinning axios to a known-good version after the March 2026 npm compromise."
 }
