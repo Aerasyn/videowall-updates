@@ -1,10 +1,10 @@
 {
-  "version": "1.2.5",
-  "publishedAt": "2026-03-31T17:17:33.443Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.5/VideoWall.1.2.5.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.5/VideoWall.1.2.5-portable.zip",
-  "sha256": "1fb4c236bc7dffa28f4f8453bbcf53071cc3722c94541157576302597b73b268",
-  "downloadSha256": "1fb4c236bc7dffa28f4f8453bbcf53071cc3722c94541157576302597b73b268",
-  "zipSha256": "21a14f79415a56172179bdd7d4be36b919c0eaec8e34688f05b180dd9e708709",
-  "notes": "VideoWall 1.2.5 hardens the dependency tree by pinning axios to a known-good version after the March 2026 npm compromise."
+  "version": "1.2.6",
+  "publishedAt": "2026-05-13T17:08:59.660Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.6/VideoWall.1.2.6.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.6/VideoWall.1.2.6-portable.zip",
+  "sha256": "304019fd64988d805443bde24bd9aa8ee66f0ff7310059de0919284a1e5c2f6e",
+  "downloadSha256": "304019fd64988d805443bde24bd9aa8ee66f0ff7310059de0919284a1e5c2f6e",
+  "zipSha256": "f5e725d22b9ce2df247c726d1c1f2f60739d1fabcabacfe16bff89d2280e2456",
+  "notes": "VideoWall 1.2.6 keeps saved sets focused on wall layout instead of transient playback state, fixes stuck mute-lock saves, and hardens external popup handling."
 }
