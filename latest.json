@@ -1,10 +1,10 @@
 {
-  "version": "1.2.6",
-  "publishedAt": "2026-05-13T17:08:59.660Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.6/VideoWall.1.2.6.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.6/VideoWall.1.2.6-portable.zip",
-  "sha256": "304019fd64988d805443bde24bd9aa8ee66f0ff7310059de0919284a1e5c2f6e",
-  "downloadSha256": "304019fd64988d805443bde24bd9aa8ee66f0ff7310059de0919284a1e5c2f6e",
-  "zipSha256": "f5e725d22b9ce2df247c726d1c1f2f60739d1fabcabacfe16bff89d2280e2456",
-  "notes": "VideoWall 1.2.6 keeps saved sets focused on wall layout instead of transient playback state, fixes stuck mute-lock saves, and hardens external popup handling."
+  "version": "1.2.7",
+  "publishedAt": "2026-05-13T17:21:31.274Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.7/VideoWall.1.2.7.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.7/VideoWall.1.2.7-portable.zip",
+  "sha256": "32c1b8455a9003e076d81d3fe25682b85f6666f3cbfa3c2a1a80ac09d154ee33",
+  "downloadSha256": "32c1b8455a9003e076d81d3fe25682b85f6666f3cbfa3c2a1a80ac09d154ee33",
+  "zipSha256": "7789eb0ba58b88ec67cb9b70df548430cec37e1c4b32a652c61d1eac81e8d79f",
+  "notes": "VideoWall 1.2.7 fixes the guided update installer for extracted-folder and portable executable usage. Updates now wait for app locks to clear, install ZIP contents in place, relaunch the app, and write installer logs for troubleshooting."
 }
