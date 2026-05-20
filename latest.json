@@ -1,10 +1,10 @@
 {
-  "version": "1.2.8",
-  "publishedAt": "2026-05-20T03:43:50.053Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.8/VideoWall.1.2.8.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.8/VideoWall.1.2.8-portable.zip",
-  "sha256": "9d7de4d15d3c816be7cd5be4d00a1bb4ab739ce6aeffd2802f9c9145319b9441",
-  "downloadSha256": "9d7de4d15d3c816be7cd5be4d00a1bb4ab739ce6aeffd2802f9c9145319b9441",
-  "zipSha256": "b7648271e03ff4aa9992e8b9d5a7ad414e41f8dcffc7ff8d5cd858bff1801fec",
-  "notes": "VideoWall 1.2.8 adds toggleable tile audio focus. Clicking the active audio tile again returns the wall to no-audio/no-focus mode without creating a mute lock, and the audio-owner badge no longer reports another window when audio is intentionally off."
+  "version": "1.2.9",
+  "publishedAt": "2026-05-20T03:54:31.902Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.9/VideoWall.1.2.9.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.9/VideoWall.1.2.9-portable.zip",
+  "sha256": "57457b3011a7a39a05b56a33305605eda3a80ba7c8eab6519193ef84b92b80a2",
+  "downloadSha256": "57457b3011a7a39a05b56a33305605eda3a80ba7c8eab6519193ef84b92b80a2",
+  "zipSha256": "ce6fe9ebc0a0a711eddfffc15675580bfb8fc0cd9d039af1a3ced1f5fb21e285",
+  "notes": "VideoWall 1.2.9 fixes the guided updater helper. The Windows PowerShell install script now binds its arguments correctly before replacing extracted-folder or portable executable installs."
 }
