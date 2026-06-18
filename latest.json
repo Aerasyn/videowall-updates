@@ -1,10 +1,10 @@
 {
-  "version": "1.2.9",
-  "publishedAt": "2026-05-20T03:54:31.902Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.9/VideoWall.1.2.9.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.9/VideoWall.1.2.9-portable.zip",
-  "sha256": "57457b3011a7a39a05b56a33305605eda3a80ba7c8eab6519193ef84b92b80a2",
-  "downloadSha256": "57457b3011a7a39a05b56a33305605eda3a80ba7c8eab6519193ef84b92b80a2",
-  "zipSha256": "ce6fe9ebc0a0a711eddfffc15675580bfb8fc0cd9d039af1a3ced1f5fb21e285",
-  "notes": "VideoWall 1.2.9 fixes the guided updater helper. The Windows PowerShell install script now binds its arguments correctly before replacing extracted-folder or portable executable installs."
+  "version": "1.2.10",
+  "publishedAt": "2026-06-18T04:48:14.602Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.10/VideoWall.1.2.10.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.10/VideoWall.1.2.10-portable.zip",
+  "sha256": "667a5e3d295f56e5b33159ff489e77a559f689e2e0b19de4c50e8653bac68be0",
+  "downloadSha256": "667a5e3d295f56e5b33159ff489e77a559f689e2e0b19de4c50e8653bac68be0",
+  "zipSha256": "215c7710576738a49052f4f1578cbe4a31c328892b7a3440970d44fb2f995b06",
+  "notes": "VideoWall 1.2.10 fixes Famelack country-route channel detection so URLs like /tv/us/<channel-id> resolve through the Famelack adapter instead of web embed."
 }
