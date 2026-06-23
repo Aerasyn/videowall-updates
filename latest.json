@@ -1,10 +1,10 @@
 {
-  "version": "1.2.12",
-  "publishedAt": "2026-06-23T02:45:36.098Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.12/VideoWall.1.2.12.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.12/VideoWall.1.2.12-portable.zip",
-  "sha256": "caa95f002b443f036d4b30795275b808e222c279de0a954ecb1a8fb753e08c05",
-  "downloadSha256": "caa95f002b443f036d4b30795275b808e222c279de0a954ecb1a8fb753e08c05",
-  "zipSha256": "b0c4045fb96cfcbde37d21776fe3cbc19090f26f64db984d17dbe053669531b8",
-  "notes": "VideoWall 1.2.12 fixes Famelack feeds after the upstream data schema changed. The resolver now supports both old stream_urls/youtube_urls fields and new sources.streams/sources.youtube fields."
+  "version": "1.2.13",
+  "publishedAt": "2026-06-23T16:38:45.828Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.13/VideoWall.1.2.13.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.13/VideoWall.1.2.13-portable.zip",
+  "sha256": "88e03c7bb445deb684c136d19eaef248713ae3c924551c752dc132d35af6a8fb",
+  "downloadSha256": "88e03c7bb445deb684c136d19eaef248713ae3c924551c752dc132d35af6a8fb",
+  "zipSha256": "e5ceaef0e87a94d4f7e68b4ed4b74f15cc4fca33a40b6791ec2436e90bf5e469",
+  "notes": "VideoWall 1.2.13 improves Famelack source priority so healthy HLS streams are preferred over unavailable YouTube embeds, and uses the bundled elevation helper for updater handoff into protected install folders."
 }
