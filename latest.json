@@ -1,10 +1,10 @@
 {
-  "version": "1.2.11",
-  "publishedAt": "2026-06-18T05:17:57.161Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.11/VideoWall.1.2.11.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.11/VideoWall.1.2.11-portable.zip",
-  "sha256": "38bd8a140f0a377a4673cadc3f77de72661aa3371971b9428ee9a1f86d09549a",
-  "downloadSha256": "38bd8a140f0a377a4673cadc3f77de72661aa3371971b9428ee9a1f86d09549a",
-  "zipSha256": "bcb114bc3ae5b104518474683c31e44f966423c7e457117bc1da7d5972756926",
-  "notes": "VideoWall 1.2.11 hardens the Windows guided updater handoff with a CMD launcher and separate diagnostic logs for launcher, PowerShell stdout, and install actions."
+  "version": "1.2.12",
+  "publishedAt": "2026-06-23T02:45:36.098Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.12/VideoWall.1.2.12.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.2.12/VideoWall.1.2.12-portable.zip",
+  "sha256": "caa95f002b443f036d4b30795275b808e222c279de0a954ecb1a8fb753e08c05",
+  "downloadSha256": "caa95f002b443f036d4b30795275b808e222c279de0a954ecb1a8fb753e08c05",
+  "zipSha256": "b0c4045fb96cfcbde37d21776fe3cbc19090f26f64db984d17dbe053669531b8",
+  "notes": "VideoWall 1.2.12 fixes Famelack feeds after the upstream data schema changed. The resolver now supports both old stream_urls/youtube_urls fields and new sources.streams/sources.youtube fields."
 }
