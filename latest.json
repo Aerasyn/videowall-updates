@@ -1,10 +1,10 @@
 {
-  "version": "1.3.3",
-  "publishedAt": "2026-07-13T01:56:10.285Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.3/VideoWall.1.3.3.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.3/VideoWall.1.3.3-portable.zip",
-  "sha256": "32a2d9607b66c7e3df62e623f582c21cb57ca9651a6f3700ba87aec584d890d7",
-  "downloadSha256": "32a2d9607b66c7e3df62e623f582c21cb57ca9651a6f3700ba87aec584d890d7",
-  "zipSha256": "b1dc0825dbf796c2c290a196017f7381bb407b012379118b69c0e593bbe787f8",
-  "notes": "VideoWall 1.3.3 adds durable state recovery, safer imports and cross-window synchronization, reliable feed retries and updater downloads, faster adapter loading, saved-wall revert and undo-last-save controls, and fixed-height feed titles."
+  "version": "1.3.4",
+  "publishedAt": "2026-09-10T04:07:05.263Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.4/VideoWall.1.3.4.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.4/VideoWall.1.3.4-portable.zip",
+  "sha256": "c9f464599eb3a1226c2170d1080e7c302bc0a5724ebec892d752c2c1f071f785",
+  "downloadSha256": "c9f464599eb3a1226c2170d1080e7c302bc0a5724ebec892d752c2c1f071f785",
+  "zipSha256": "5d18f445bbf08b3969ee7cd80ad23c89b4beac97094e42ba474224e1ad2c2406",
+  "notes": "VideoWall 1.3.4 adds serialized saved-set operations, safer cross-window state synchronization, playback recovery with bounded retries, Famelack fallback resilience, expanded regression coverage, and portable update hashing compatibility."
 }
