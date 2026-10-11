@@ -1,10 +1,10 @@
 {
-  "version": "1.3.5",
-  "publishedAt": "2026-10-05T02:24:03.216Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.5/VideoWall.1.3.5.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.5/VideoWall.1.3.5-portable.zip",
-  "sha256": "b1946b9a5b1640152ee1c6d1466f791188ca551e389c455f5e72c11accc338ac",
-  "downloadSha256": "b1946b9a5b1640152ee1c6d1466f791188ca551e389c455f5e72c11accc338ac",
-  "zipSha256": "4c5bf728283d8e3eb633f83de6249385c86062507ed3aca109649a3e733baddc",
-  "notes": "VideoWall 1.3.5 updates the application icon with the new transparent full-frame mark."
+  "version": "1.3.6",
+  "publishedAt": "2026-10-11T04:43:08.980Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.6/VideoWall.1.3.6.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.6/VideoWall.1.3.6-portable.zip",
+  "sha256": "72a2ee8e9fbd541271c857f19e0c91fd6acc7e65d2ea4820a3094fa9f21aae6a",
+  "downloadSha256": "72a2ee8e9fbd541271c857f19e0c91fd6acc7e65d2ea4820a3094fa9f21aae6a",
+  "zipSha256": "8e496c41963955ff6d55e0b35ce9ba8e295de6f0e69c0bc9d9a45131147f6e33",
+  "notes": "VideoWall 1.3.6 smooths focus quality transitions and prevents volume-wheel changes from interrupting playback."
 }
