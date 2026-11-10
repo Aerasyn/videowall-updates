@@ -1,10 +1,10 @@
 {
-  "version": "1.3.6",
-  "publishedAt": "2026-10-11T04:43:08.980Z",
-  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.6/VideoWall.1.3.6.exe",
-  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.6/VideoWall.1.3.6-portable.zip",
-  "sha256": "72a2ee8e9fbd541271c857f19e0c91fd6acc7e65d2ea4820a3094fa9f21aae6a",
-  "downloadSha256": "72a2ee8e9fbd541271c857f19e0c91fd6acc7e65d2ea4820a3094fa9f21aae6a",
-  "zipSha256": "8e496c41963955ff6d55e0b35ce9ba8e295de6f0e69c0bc9d9a45131147f6e33",
-  "notes": "VideoWall 1.3.6 smooths focus quality transitions and prevents volume-wheel changes from interrupting playback."
+  "version": "1.3.7",
+  "publishedAt": "2026-11-10T23:21:49.651Z",
+  "downloadUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.7/VideoWall.1.3.7.exe",
+  "zipUrl": "https://github.com/Aerasyn/videowall-updates/releases/download/v1.3.7/VideoWall.1.3.7-portable.zip",
+  "sha256": "833a8f5d77114c93f8637f4e8cf1ce2e8a473231e3ffa63b40eb1a0a51a2e62c",
+  "downloadSha256": "833a8f5d77114c93f8637f4e8cf1ce2e8a473231e3ffa63b40eb1a0a51a2e62c",
+  "zipSha256": "d9fbaf97e823d7bdb271073da1d15de05de922c7f191bddc7404977972c08095",
+  "notes": "VideoWall 1.3.7 fixes Famelack feed resolution against its current public dataset paths and keeps fallback support for legacy compressed paths."
 }
